@@ -21,3 +21,4 @@ def display_board
   -----------
      |   |
   # etc...
+end
